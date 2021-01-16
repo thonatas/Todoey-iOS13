@@ -10,5 +10,7 @@ import Foundation
 
 struct K {
     static let todoReusableIdentifierCell = "TodoItemCell"
+    static let categoryReusableIdentifierCell = "CategoryCell"
+    static let segueTodoListItem = "goToItems"
     static let appName = "Todoey"
 }
